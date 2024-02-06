@@ -45,7 +45,7 @@
     "react-toastify": "^8.0.2",
     "reactstrap": "^7.1.0",
     "toastify": "^2.0.1",
-    "victory": "^32.0.0",
+    "victory": "^36.0.0",
     "yup": "^0.32.9"
   },
   "devDependencies": {
